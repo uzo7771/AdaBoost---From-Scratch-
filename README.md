@@ -9,4 +9,4 @@ This project implements the AdaBoost algorithm using Regression Trees as weak le
 - Weighted Median Prediction: Combines predictions from multiple weak learners using a weighted median approach.
 
 ## Dependencies
-This project depends on the RegressionTree class, which is implemented in another repository. To use the Random Forest, you need to download the Regression-Trees---From-Scratch repository and place its code in the appropriate folder.
+This project depends on the RegressionTree class, which is implemented in another repository. To use the AdaBoost, you need to download the Regression-Trees---From-Scratch repository and place its code in the appropriate folder.
